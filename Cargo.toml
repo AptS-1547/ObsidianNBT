@@ -1,0 +1,15 @@
+[package]
+name = "obsidian-nbt"
+version = "0.0.0"
+edition = "2024"
+rust-version = "1.88.0"
+license = "MIT"
+description = "A command-line tool for manipulating Minecraft NBT (Named Binary Tag) data, written in Rust."
+authors = ["AptS-1547 <apts-1547@esaps.net>"]
+repository = "https://github.com/AptS-1547/ObsidianNBT"
+homepage = "https://github.com/AptS-1547/ObsidianNBT"
+keywords = ["Minecraft", "NBT", "data-manipulation", "command-line-tool", "Rust"]
+categories = ["command-line-utilities", "encoding", "game-development"]
+readme = "README.md"
+
+[dependencies]
